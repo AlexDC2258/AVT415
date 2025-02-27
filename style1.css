@@ -1,0 +1,13 @@
+@charset "UTF-8";
+/* CSS Document */
+html {font-size: 100%;} /*16px*/
+
+body {
+  background-color: #FFE3A1;
+  color: #2B2A26;
+}
+
+h1 {
+
+  font-size: 50px;
+}
